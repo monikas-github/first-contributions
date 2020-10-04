@@ -445,6 +445,7 @@
 - [Jennifer Openshaw] (https://github.com/jlopenshaw41)
 - [Alex Koinski] (https://github.com/akoinski7)
 - [Young Han](https://github.com/yhan0704)
+- [tareq12345 ](https://github.com/tareq12345)
 - [Rishabh]
 - [Jaideep Reddy Kotla](https://github.com/Jaideep07)
 - [Dhaval ]
